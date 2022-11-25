@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/quantfol.io/static/css/main.4e9cb584.css",
-    "main.js": "/quantfol.io/static/js/main.579a7a5a.js",
+    "main.css": "/quantfol.io/static/css/main.fce07b53.css",
+    "main.js": "/quantfol.io/static/js/main.bb024fbc.js",
     "index.html": "/quantfol.io/index.html",
-    "main.4e9cb584.css.map": "/quantfol.io/static/css/main.4e9cb584.css.map",
-    "main.579a7a5a.js.map": "/quantfol.io/static/js/main.579a7a5a.js.map"
+    "main.fce07b53.css.map": "/quantfol.io/static/css/main.fce07b53.css.map",
+    "main.bb024fbc.js.map": "/quantfol.io/static/js/main.bb024fbc.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e9cb584.css",
-    "static/js/main.579a7a5a.js"
+    "static/css/main.fce07b53.css",
+    "static/js/main.bb024fbc.js"
   ]
 }
