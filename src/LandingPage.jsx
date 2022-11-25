@@ -34,6 +34,7 @@ const LandingPage = () => {
 		chart: {
 			backgroundColor: 'rgb(250, 250, 250)',
 			zoomType: 'x',
+			height: '100%',
 		},
 
 		date: {
